@@ -1,0 +1,23 @@
+{
+  "name": "future-tech",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass-watch": "sass --watch ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denys-chornopyskyi/future-tech-web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denys-chornopyskyi/future-tech-web/issues"
+  },
+  "homepage": "https://github.com/denys-chornopyskyi/future-tech-web#readme",
+  "description": "",
+  "devDependencies": {
+    "sass": "^1.87.0"
+  }
+}
