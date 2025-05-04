@@ -253,6 +253,7 @@ svg * {
   --color-red: #ff5500;
   --font-family-base: "Inter", sans-serif;
   --font-family-accent: "Kumbh Sans", sans-serif;
+  --border: 0.0625rem solid var(--color-dark-15);
   --width-container: 100rem;
   --width-padding-x: 1rem;
   --transition-duration: 0.2s;
@@ -381,6 +382,12 @@ a[class] {
   outline: 0.125rem dashed var(--color-light);
   outline-offset: 0.25rem;
   transition-duration: 0s !important;
+}
+
+.header__promo {
+  padding-block: 1.25rem;
+  margin-inline: auto;
+  border-bottom: var(--border);
 }
 
 /*# sourceMappingURL=main.css.map */

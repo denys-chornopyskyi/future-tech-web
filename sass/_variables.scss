@@ -18,6 +18,8 @@
   --font-family-base: 'Inter', sans-serif;
   --font-family-accent: 'Kumbh Sans', sans-serif;
 
+  --border: #{rem(1)} solid var(--color-dark-15);
+
   --width-container: #{rem(1600)};
   --width-padding-x: #{rem(16)};
 
